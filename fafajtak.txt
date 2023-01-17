@@ -3,3 +3,7 @@ hárs
 tölgy
 fenyő
 mystical tree
+nyírfa
+nyárfa
+diófa
+akácfa
